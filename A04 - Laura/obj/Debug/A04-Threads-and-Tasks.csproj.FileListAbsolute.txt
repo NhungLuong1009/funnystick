@@ -1,0 +1,61 @@
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe.config
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csprojAssemblyReference.cache
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\App.g.cs
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.cache
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.lref
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\MainWindow.baml
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.g.resources
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04_Threads_and_Tasks.Properties.Resources.resources
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.GenerateResource.cache
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.exe
+C:\Users\dainglis-win\Documents\course_notes\PROG2121\assignments\A04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe.config
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csprojAssemblyReference.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\App.g.cs
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.lref
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\MainWindow.baml
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.g.resources
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04_Threads_and_Tasks.Properties.Resources.resources
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.GenerateResource.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\DI v01\dinglis2920_a04\A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe.config
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csprojAssemblyReference.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\App.g.cs
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.lref
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\MainWindow.baml
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.g.resources
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04_Threads_and_Tasks.Properties.Resources.resources
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.GenerateResource.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Alex Stoltchnev\Desktop\-  2121 (2019 FALL)\-  ASN 04\@\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe.config
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csprojAssemblyReference.cache
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\MainWindow.g.cs
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\App.g.cs
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.cache
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks_MarkupCompile.lref
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\MainWindow.baml
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.g.resources
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04_Threads_and_Tasks.Properties.Resources.resources
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.GenerateResource.cache
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.exe
+C:\Users\Laura Luong\Desktop\WinProg-M06-A04-Threads-and-Tasks\obj\Debug\A04-Threads-and-Tasks.pdb
+C:\Users\chauk\Downloads\WinProg-M06-A04-Threads-and-Tasks (2)\WinProg-M06-A04-Threads-and-Tasks\bin\Debug\A04-Threads-and-Tasks.exe
